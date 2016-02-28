@@ -10,3 +10,4 @@ Interesting CTF resources
 * http://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx		-- Vigenere_cipher
 * https://github.com/ctfs/write-ups-2014		-- Ctf_writeups
 * https://ctf-team.vulnhub.com/ -- Writeups
+* http://quipqiup.com/index.php -- substitution cipher solver
