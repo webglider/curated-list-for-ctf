@@ -11,3 +11,4 @@ Interesting CTF resources
 * https://github.com/ctfs/write-ups-2014		-- Ctf_writeups
 * https://ctf-team.vulnhub.com/ -- Writeups
 * http://quipqiup.com/index.php -- substitution cipher solver
+* https://github.com/evilpacket/DVCS-Pillage -- git based web root
